@@ -1,0 +1,21 @@
+EXO 1 :
+
+- git commit
+- git commit
+
+EXO 2 :
+
+- git branch bugFix
+- git checkout bugFix
+
+EXO 3 :
+
+- git branch bugFix
+- git checkout bugFix 
+- git commit
+- git checkout main
+- git commit
+- git merge bugFix
+
+EXO 4 : 
+
